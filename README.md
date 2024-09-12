@@ -26,4 +26,4 @@ This project is an implementation of a **Tower Defense** game developed in **Sch
 - Enhanced understanding of Scheme's capabilities in managing game mechanics and visual updates in real time.
 - Improved problem-solving skills by designing and implementing a game from scratch in a functional programming paradigm.
 
-You can view the project on GitHub: [Tower Defense Game](https://github.com/yourusername/TowerDefenseGame)
+You can view the project on GitHub: [Tower Defense Game](https://github.com/ZakariaRabahi/TowerDefenseGame)
